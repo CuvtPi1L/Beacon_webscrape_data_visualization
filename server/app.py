@@ -1,9 +1,9 @@
 import mysql.connector
 from flask import Flask, jsonify
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 
-
-app = Flask(__name__)
+ 
+app = Flask(__name__, static_folder = "client/build")
 CORS(app)
 # Database configuration
 config = {
