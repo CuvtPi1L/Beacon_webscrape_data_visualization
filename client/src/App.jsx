@@ -10,7 +10,7 @@ function App() {
 
   useEffect(() => {
     // Fetch data from localhost:5000
-    fetch('http://localhost:5000/data')
+    fetch('http://localhost:5000/api/data')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');

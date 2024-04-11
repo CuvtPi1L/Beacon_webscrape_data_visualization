@@ -20,13 +20,6 @@ cursor = conn.cursor()
 
 
 
-@app.route('/',methods=['GET', 'POST'])
-def hello():
-    count = 4
-    return 'Hello World! I have been seen {} times.\n'.format(count)
-
-
-
 # Seed the database
 @app.route('/seed')
 def seed_database():
