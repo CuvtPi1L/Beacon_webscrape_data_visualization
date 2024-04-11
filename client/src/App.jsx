@@ -1,56 +1,54 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import SearchComponent from './Search';
+import ResultsComponent from './Results';
 
-const App = () => {
+function App() {
   const [data, setData] = useState([]);
-  console.log(data)
+  const [filteredData, setFilteredData] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await axios.get('http://127.0.0.1:5000/api/data'); // Assuming your Flask API endpoint is /api/data
-        setData(response.data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
-
-    fetchData();
+    // Fetch data from localhost:5000
+    fetch('http://localhost:5000/data')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(data => {
+        setData(data);
+        setFilteredData(data); // Initialize filteredData with all data
+      })
+      .catch(error => {
+        console.error('There was a problem with the fetch operation:', error);
+        setError(error.message);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
   }, []);
 
+  const handleSearch = (searchCriteria) => {
+    const filtered = data.filter(item =>
+      (searchCriteria.parcelId ? item.parcelId.toString() === searchCriteria.parcelId : true) &&
+      (searchCriteria.salePrice ? item.salePrice.toString() === searchCriteria.salePrice : true) &&
+      (searchCriteria.address ? item.address.toLowerCase().includes(searchCriteria.address.toLowerCase()) : true)
+    );
+    setFilteredData(filtered);
+  };
+
+  if (loading) return <div>Loading...</div>;
+  if (error) return <div>Error: {error}</div>;
+
   return (
-    <div>
-      <h1>Property Data</h1>
-      <table>
-        <thead>
-          <tr>
-            <th>Parcel ID</th>
-            <th>Address</th>
-            <th>Sale Price</th>
-            <th>Sale Date</th>
-            {/* Add more table headers for other columns */}
-          </tr>
-        </thead>
-        <tbody>
-          {data.length > 0 ? (
-            data.map(item => (
-              <tr key={item.ParcelID}>
-                <td>{item.ParcelID}</td>
-                <td>{item.Address}</td>
-                <td>{item.SalePrice}</td>
-                <td>{item.SaleDate}</td>
-                {/* Add more table cells for other columns */}
-              </tr>
-            ))
-          ) : (
-            <tr>
-              <td colSpan="4">No data available</td>
-            </tr>
-          )}
-        </tbody>
-      </table>
+    <div className="App">
+      <h1>Real Estate Data Viewer</h1>
+      <SearchComponent onSearch={handleSearch} />
+      <ResultsComponent data={filteredData} />
     </div>
   );
-};
+}
 
 export default App;

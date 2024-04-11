@@ -1,13 +1,14 @@
-FROM node:18-alpine
+FROM node:20-alpine3.18 
 
-WORKDIR /react-docker-example/
+WORKDIR /app
+COPY package.json .
+RUN npm i 
+COPY . .
+EXPOSE 8080
+CMD [ "npm","run" ,"dev"]
 
-COPY public/ /react-docker-example/public
-COPY src/ /react-docker-example/src
-COPY package.json /react-docker-example/
 
-RUN npm install
 
-CMD ["npm", "start"]
+
 
 

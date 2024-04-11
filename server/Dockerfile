@@ -13,4 +13,6 @@ RUN pip install -r requirement.txt
 
 # RUN python createTable.py
 
+RUN python dataSeed.py
+
 CMD ["flask","run"]

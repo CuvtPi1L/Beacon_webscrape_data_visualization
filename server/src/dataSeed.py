@@ -1,4 +1,5 @@
 import mysql.connector
+import pandas as pd
 
 # Database configuration
 config = {
@@ -8,28 +9,29 @@ config = {
     'database': 's6cidla3ltlvdz9y'
 }
 
-# Data to be inserted
-data = [
-    (1232476002, "970 10TH ST, WAUKEE", "$1,423,422", "6/17/2022", None, "2022-14379", "$17,560", 2024, 474474, 908, "N", "Office - General"),
-    # Add more data as needed
-]
+csv_file_path = 'Beacon_webCrawl - Sheet2.csv' 
+
 
 # Connect to the database
 conn = mysql.connector.connect(**config)
 cursor = conn.cursor()
 
-# SQL command to insert data into the table
-insert_query = """
-INSERT INTO property_data (ParcelID, Address, SalePrice, SaleDate, MultiParcelSale, Recording, AssessedValue, YearBuilt, LotArea, BuildingArea, Vacant, Occupancy)
-VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-"""
+df = pd.read_csv(csv_file_path)
 
-# Execute the SQL command to insert data
-cursor.executemany(insert_query, data)
+# Data preprocessing
+df['SalePrice'] = df['SalePrice'].replace('[\$,]', '', regex=True).astype(float)
+df['AssessedValue'] = df['AssessedValue'].replace('[\$,]', '', regex=True).astype(float)
+df['SaleDate'] = pd.to_datetime(df['SaleDate']).dt.strftime('%Y-%m-%d')  # Format date for MySQL
 
-# Commit the transaction
+# Insert data into the database
+for index, row in df.iterrows():
+    cursor.execute('''
+    INSERT INTO real_estate (ParcelID, Address, SalePrice, SaleDate, MultiParcelSale, Recording, AssessedValue, YearBuilt, LotArea, BuildingArea, Vacant, Occupancy, TaxDistrict)
+    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    ''', (row['Parcel ID'], row['Address'], row['SalePrice'], row['SaleDate'], row['MultiParcelSale'], row['Rec-ording'], row['AssessedValue'], row['YearBuilt'], row['LotArea(sf)'], row['BuildingArea'], row['Vacant'], row['Occupancy'], row['Tax District']))
+
+
+
 conn.commit()
-
-# Close the cursor and connection
 cursor.close()
 conn.close()

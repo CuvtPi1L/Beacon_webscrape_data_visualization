@@ -1,0 +1,571 @@
+Parcel ID,Address,SalePrice,SaleDate,MultiParcelSale,Rec-ording,AssessedValue,YearBuilt,LotArea(sf),BuildingArea,Vacant,Occupancy,Tax District
+1232476002,"970 10TH ST, WAUKEE","$1,423,422",6/17/2022, ,"
+                    2022-14379
+                ","$17,560",2024,474474,908,N,Office - General,
+1234229001,"1090 E HICKMAN RD, WAUKEE","$1,300,000",12/2/2020, ,"
+                    2020-34704
+                ","$180,510",2024,76704.8,5999,N,Bank - Main,
+1235356002,"970 SE BRICK DR, WAUKEE","$610,327",12/18/2023, ,"
+                    2023-18884
+                ","$83,320",2024,64245,5945,Y,Store - Retail Small,
+1519153008,"27 ELLEFSON DR, DESOTO","$240,000",6/15/2015,Y,"
+                    2015-10122
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1519153008,"27 ELLEFSON DR, DESOTO",$0,10/20/2016,Y,"
+                    2017-23228
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1519153008,"27 ELLEFSON DR, DESOTO","$105,000",11/17/2017,Y,"
+                    2017-23229
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1519153008,"27 ELLEFSON DR, DESOTO",$0,9/21/2023,Y,"
+                    2023-14563
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1601106002, , , , ,"
+                    
+                ","$554,960",2024,79280,12095,Y,Shopping Center - Neighborhood,
+1612327002,"6960 EP TRUE PKWY, WEST DES MOINES", , , ,"
+                    
+                ","$4,480",2024,236966.4,17082,N,Shopping Center - Neighborhood,
+1614278004, , , , ,"
+                    
+                ","$595,380",2024,992296.8,5432,Y,Recreational Facility,
+211451902, , , , ,"
+                    
+                ","$120,750",2023, ,0,N,Tower - Light Design Load,
+211455001,"1080 26TH ST, PERRY","$28,000",10/19/2022, ,"
+                    2022-22351
+                ","$5,030",2023,20114,3000,N,Metal Warehouse - Post Frame,
+211455002,"1070 26TH ST, PERRY","$13,000",2/16/2022, ,"
+                    2022-3516
+                ","$3,200",2023,12800,635,N,Office - General,
+214226002, ,"$59,000",12/15/2009,Y,"
+                    2009-19844
+                ","$18,140",2023,145145,4440,N,Store - Convenience,
+214226002, ,"$160,000",8/8/2023, ,"
+                    2023-11705
+                ","$18,140",2023,145145,4440,N,Store - Convenience,
+307400009, ,"$570,000",1/27/2022, ,"
+                    2022-2038
+                ","$80,750",2023,1306800,36000,N,Metal Light Mfg - Rigid Steel Frame,
+406332006,"204 S MAIN ST, WOODWARD",$0,8/6/2020,Y,"
+                    2020-20974
+                ","$170,170",2023,14200,2380,N,Auto Repair,
+406332006,"204 S MAIN ST, WOODWARD","$57,500",12/1/2020, ,"
+                    2020-34292
+                ","$170,170",2023,14200,2380,N,Auto Repair,
+406332006,"204 S MAIN ST, WOODWARD","$125,000",1/20/2022, ,"
+                    2022-1724
+                ","$170,170",2023,14200,2380,N,Auto Repair,
+406332006,"204 S MAIN ST, WOODWARD","$33,000",12/5/2005, ,"
+                    2005-20954
+                ","$170,170",2023,14200,2380,N,Auto Repair,
+406332006,"204 S MAIN ST, WOODWARD",$0,4/1/2020, ,"
+                    2020-6344
+                ","$170,170",2023,14200,2380,N,Auto Repair,
+406332006,"204 S MAIN ST, WOODWARD","$180,000",4/27/2023, ,"
+                    2023-6133
+                ","$170,170",2023,14200,2380,N,Auto Repair,
+408200901,"29502 130TH ST, WOODWARD", , , ,"
+                    
+                ","$148,770",2023, ,0,N,Tower - Light Design Load,
+708151002, ,$0,10/12/1995, ,"
+                    796-662
+                ","$12,340",2023,10777.4948,3432,N,Metal Retail Store - Post Frame,
+708151002, ,$0,6/14/2019,Y,"
+                    2019-9553
+                ","$12,340",2023,10777.4948,3432,N,Metal Retail Store - Post Frame,
+708151002, ,"$12,000",12/28/2021, ,"
+                    2022-1600
+                ","$12,340",2023,10777.4948,3432,N,Metal Retail Store - Post Frame,
+708151002, ,$0,1/31/2019, ,"
+                    2019-2539
+                ","$12,340",2023,10777.4948,3432,N,Metal Retail Store - Post Frame,
+812280005,"1700 BURR OAK BLVD, GRANGER","$346,171",6/2/2022, ,"
+                    2022-14255
+                ","$21,640",2023,115434,17160,N,Metal Warehouse - Rigid Steel Frame,
+812280008,"1703 BURR OAK BLVD, GRANGER","$376,794",11/29/2021, ,"
+                    2021-34997
+                ","$28,260",2023,150717.6,22000,N,Metal Warehouse - Rigid Steel Frame,
+919131005,"102 S CALDWELL, LINDEN",$0,2/23/2009, ,"
+                    2009-2928
+                ","$4,850",2023,16236,6042,N,Mini - Storage,
+919131005,"102 S CALDWELL, LINDEN","$32,000",5/13/2004, ,"
+                    2004-7276
+                ","$4,850",2023,16236,6042,N,Mini - Storage,
+919131005,"102 S CALDWELL, LINDEN",$0,6/21/1988, ,"
+                    659-882
+                ","$4,850",2023,16236,6042,N,Mini - Storage,
+919131005,"102 S CALDWELL, LINDEN","$55,000",7/18/2022, ,"
+                    2022-16315
+                ","$4,850",2023,16236,6042,N,Mini - Storage,
+1101101004,"306 SUGAR GROVE AVE, DALLAS CENTER","$59,410",6/15/2000, ,"
+                    2000-8287
+                ","$152,290",2023,199069.2,5600,N,Mini - Storage,
+1101101004,"306 SUGAR GROVE AVE, DALLAS CENTER","$100,000",8/9/2021, ,"
+                    2021-23449
+                ","$152,290",2023,199069.2,5600,N,Mini - Storage,
+1101101004,"306 SUGAR GROVE AVE, DALLAS CENTER","$100,000",10/28/2005, ,"
+                    2005-18589
+                ","$152,290",2023,199069.2,5600,N,Mini - Storage,
+1101101004,"306 SUGAR GROVE AVE, DALLAS CENTER","$1,000,000",8/9/2021,Y,"
+                    2021-23436
+                ","$152,290",2023,199069.2,5600,N,Mini - Storage,
+1102265001, ,$0,3/24/1986, ,"
+                    627-635
+                ","$76,880",2023,59136,1410,Y,Recreational Facility,
+1126100902,"28433 R AVE, ADEL", , , ,"
+                    
+                ","$152,160",2023, ,0,N,Tower - Light Design Load,
+1220376001,"1455 NW DOUGLAS PKWY, WAUKEE", , , ,"
+                    
+                ","$39,507,810",2023,3310995.6,48937,Y,School - Class Room,
+1225352021,"15591 HICKMAN RD, WAUKEE","$1,643,465",8/10/2022, ,"
+                    2022-18070
+                ",$0,2023,99303,6719,N,Office - General,
+1225355001,"15591 HICKMAN RD, CLIVE", , , ,"
+                    
+                ","$1,688,140",2023,96860,6719,N,Office - General,
+1226126008, ,"$727,990",11/4/2021, ,"
+                    2021-32699
+                ",$0,2023,258310.8,18983,N,Apartment - Assisted Living,
+1226130002,"3300 BERKSHIRE PKWY, CLIVE", , , ,"
+                    
+                ","$6,847,990",2023,250299,18983,N,Apartment - Assisted Living,
+1226379001,"1345 E HICKMAN RD, WAUKEE", , , ,"
+                    
+                ","$2,088,000",2023,343566,31403,N,Apartment,
+1226457002,"16035 HICKMAN RD, CLIVE", , , ,"
+                    
+                ","$2,884,060",2023,161172,25324,N,Store - Grocery,
+1227382002,"425 E HICKMAN RD, WAUKEE", , , ,"
+                    
+                ","$1,490",2023,36316,2297,N,Restaurant - Fast Food,
+1227451006,"605 E HICKMAN RD, WAUKEE","$967,000",12/28/2022, ,"
+                    2023-353
+                ","$2,660",2023,48351.6,9899,N,Child Day Care Center,
+1227455003,"555 E HICKMAN RD, WAUKEE","$1,115,136",1/17/2023, ,"
+                    2023-744
+                ","$1,870",2023,55757,3280,N,Auto / Truck Wash (Full Service),
+1227456001,"505 E HICKMAN RD, WAUKEE", , , ,"
+                    
+                ","$2,168,320",2023,120462,19095,N,Shopping Center - Neighborhood,
+1228203001,"705 NW 2ND ST, WAUKEE", , , ,"
+                    
+                ","$1,296,000",2023,401750,24834,N,Apartment,
+1228303001,"350 NW 6TH ST, WAUKEE","$2,006,830",4/4/2023, ,"
+                    2023-4184
+                ","$22,440",2023,653400,3337,N,Clubhouse,
+1228303001,"350 NW 6TH ST, WAUKEE","$2,006,830",4/4/2023, ,"
+                    2023-4185
+                ","$22,440",2023,653400,3337,N,Clubhouse,
+1228325006,"200 NW 2ND ST, WAUKEE","$1,812,902",6/27/2022,Y,"
+                    2022-15470
+                ",$0,2023,471319.2,68630,N,Apartment,
+1228330003,"200 NW 2ND ST, WAUKEE", , , ,"
+                    
+                ","$2,257,870",2023,518966,68630,N,Apartment,
+1228478001,"80 N WARRIOR LN, WAUKEE","$560,000",9/12/2022, ,"
+                    2022-19828
+                ","$407,720",2023,90604.8,2229,N,Auto / Impl. Showroom & Sales,
+1228478001,"80 N WARRIOR LN, WAUKEE",$0,3/6/2023, ,"
+                    2023-4160
+                ","$407,720",2023,90604.8,2229,N,Auto / Impl. Showroom & Sales,
+1229226002,"1050 NW YORKTOWN DR, WAUKEE","$4,876,950",12/19/2022,Y,"
+                    2023-507
+                ","$17,570",2023,614510,3149,N,Clubhouse,
+1229329001,"1585 NW GETTYSBURG LN #101, WAUKEE","$285,000",9/15/2023, ,"
+                    2023-13909
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329002,"1575 NW GETTYSBURG LN #102, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329003,"1585 NW GETTYSBURG LN #103, WAUKEE","$225,000",1/30/2024, ,"
+                    2024-01666
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329004,"1575 NW GETTYSBURG LN #104, WAUKEE","$265,000",1/15/2024, ,"
+                    2024-00714
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329005,"1585 NW GETTYSBURG LN #105, WAUKEE","$226,500",12/14/2023, ,"
+                    2023-18796
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329006,"1575 NW GETTYSBURG LN #106, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329007,"1585 NW GETTYSBURG LN #107, WAUKEE","$225,000",11/28/2023, ,"
+                    2023-17811
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329007,"1585 NW GETTYSBURG LN #107, WAUKEE",$0,12/8/2023,Y,"
+                    2023-19008
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329008,"1575 NW GETTYSBURG LN #108, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329009,"1585 NW GETTYSBURG LN #109, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329010,"1575 NW GETTYSBURG LN #110, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329011,"1585 NW GETTYSBURG LN #111, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329012,"1575 NW GETTYSBURG LN #112, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329013,"1585 NW GETTYSBURG LN #113, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329014,"1575 NW GETTYSBURG LN #114, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329015,"1585 NW GETTYSBURG LN #115, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329016,"1575 NW GETTYSBURG LN #116, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329017,"1585 NW GETTYSBURG LN #117, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329018,"1575 NW GETTYSBURG LN #118, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329019,"1585 NW GETTYSBURG LN #119, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329020,"1575 NW GETTYSBURG LN #120, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329021,"1585 NW GETTYSBURG LN #121, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329022,"1575 NW GETTYSBURG LN #122, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329023,"1585 NW GETTYSBURG LN #123, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329024,"1575 NW GETTYSBURG LN #124, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329025,"1585 NW GETTYSBURG LN #125, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329026,"1575 NW GETTYSBURG LN #126, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329027,"1585 NW GETTYSBURG LN #127, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329028,"1575 NW GETTYSBURG LN #128, WAUKEE","$530,000",1/2/2024,Y,"
+                    2024-00209
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329029,"1585 NW GETTYSBURG LN #129, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329030,"1575 NW GETTYSBURG LN #130, WAUKEE","$530,000",1/2/2024,Y,"
+                    2024-00209
+                ","$14,650",2023,0,1500,N,Warehouse (Storage),
+1229329031,"1585 NW GETTYSBURG LN #131, WAUKEE", , , ,"
+                    
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329032,"1585 NW GETTYSBURG LN #133, WAUKEE","$900,000",11/8/2023,Y,"
+                    2023-16980
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329032,"1585 NW GETTYSBURG LN #133, WAUKEE",$0,12/8/2023,Y,"
+                    2023-19008
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329033,"1585 NW GETTYSBURG LN #135, WAUKEE","$900,000",11/8/2023,Y,"
+                    2023-16980
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329033,"1585 NW GETTYSBURG LN #135, WAUKEE",$0,12/8/2023,Y,"
+                    2023-19008
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329034,"1585 NW GETTYSBURG LN #137, WAUKEE","$900,000",11/8/2023,Y,"
+                    2023-16980
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329034,"1585 NW GETTYSBURG LN #137, WAUKEE",$0,12/8/2023,Y,"
+                    2023-19008
+                ","$14,650",2023,0,1200,N,Warehouse (Storage),
+1229329035,"1585 NW GETTYSBURG LN #139, WAUKEE","$900,000",11/8/2023,Y,"
+                    2023-16980
+                ","$14,670",2023,0,1200,N,Warehouse (Storage),
+1229329035,"1585 NW GETTYSBURG LN #139, WAUKEE",$0,12/8/2023,Y,"
+                    2023-19008
+                ","$14,670",2023,0,1200,N,Warehouse (Storage),
+1229377001,"1650 NW GETTYSBURG LANE, WAUKEE","$235,311",8/18/2021, ,"
+                    2021-24995
+                ","$458,110",2023,64468.8,9600,N,Warehouse (Storage),
+1229379001,"1500 NW GETTYSBURG LANE, WAUKEE", , , ,"
+                    
+                ","$1,581,630",2023,113955,28502,N,Warehouse (Storage),
+1229430001,"187 NW LEXINGTON DR, WAUKEE","$1,002,840",7/11/2022, ,"
+                    2022-16562
+                ",$0,2023,362789,13728,N,Apartment,
+1229430001,"187 NW LEXINGTON DR, WAUKEE","$999,600",3/25/2021, ,"
+                    2021-10288
+                ",$0,2023,362789,13728,N,Apartment,
+1229431001,"1210 NW SUNRISE DR, WAUKEE", , , ,"
+                    
+                ","$1,014,000",2023,94776,13728,N,Apartment,
+1229431002,"1230 NW SUNRISE DR, WAUKEE", , , ,"
+                    
+                ","$256,000",2023,102125,13728,N,Apartment,
+1229431003,"1205 NW SUNRISE DR, WAUKEE", , , ,"
+                    
+                ","$312,000",2023,165889,13728,N,Apartment,
+1232476002,"970 10TH ST, WAUKEE","$1,423,422",6/17/2022, ,"
+                    2022-14379
+                ","$17,560",2024,474474,908,N,Office - General,
+1233112001,"750 W HICKMAN RD, WAUKEE", , , ,"
+                    
+                ","$624,600",2023,91416,14558,N,Shopping Center - Neighborhood,
+1234229001,"1090 E HICKMAN RD, WAUKEE","$1,300,000",12/2/2020, ,"
+                    2020-34704
+                ","$180,510",2024,76704.8,5999,N,Bank - Main,
+1235355001,"950 SE BRICK DR, WAUKEE","$802,571",11/15/2022, ,"
+                    2022-24334
+                ","$122,720",2023,94960.8,14453,N,Auto Repair,
+1235356002,"970 SE BRICK DR, WAUKEE","$610,327",12/18/2023, ,"
+                    2023-18884
+                ","$83,320",2024,64245,5945,Y,Store - Retail Small,
+1424200003, ,"$60,000",3/5/2003, ,"
+                    2003-4073
+                ","$206,250",2023,239580,2669,N,Ready-Mix Plant,
+1424200003, ,"$200,000",5/22/2007, ,"
+                    2007-7736
+                ","$206,250",2023,239580,2669,N,Ready-Mix Plant,
+1506106004,"710 COMMON PLACE, ADEL", , , ,"
+                    
+                ","$784,020",2023,63607,10528,N,Shopping Center - Neighborhood,
+1506107003,"621 COMMON PLACE, ADEL", , , ,"
+                    
+                ","$2,500",2023,61286,3379,N,Auto / Truck Wash (Drive-Thru),
+1519153008,"27 ELLEFSON DR, DESOTO","$240,000",6/15/2015,Y,"
+                    2015-10122
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1519153008,"27 ELLEFSON DR, DESOTO",$0,10/20/2016,Y,"
+                    2017-23228
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1519153008,"27 ELLEFSON DR, DESOTO","$105,000",11/17/2017,Y,"
+                    2017-23229
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1519153008,"27 ELLEFSON DR, DESOTO",$0,9/21/2023,Y,"
+                    2023-14563
+                ",$0,2024,21780,15300,N,Metal Warehouse - Post Frame,
+1519153026,"27 ELLEFSON DR, DESOTO", , , ,"
+                    
+                ","$11,980",2023,43560,15300,N,Warehouse (Storage),
+1519303006,"2000 ASH ST, DESOTO","$530,103",5/31/2022,Y,"
+                    2022-12307
+                ","$365,510",2023,112463,25000,N,Metal Light Mfg - Rigid Steel Frame,
+1519303006,"2000 ASH ST, DESOTO","$510,000",4/19/2018,Y,"
+                    2018-6967
+                ","$365,510",2023,112463,25000,N,Metal Light Mfg - Rigid Steel Frame,
+1519303006,"2000 ASH ST, DESOTO","$510,000",4/19/2018,Y,"
+                    2018-6969
+                ","$365,510",2023,112463,25000,N,Metal Light Mfg - Rigid Steel Frame,
+1522100015,"1550 VETERANS MEMORIAL PKWY, VAN METER","$500,000",6/14/2022,Y,"
+                    2022-14142
+                ","$599,880",2023,199940.4,2376,N,Ready-Mix Plant,
+1527200023,"1110 MAIN ST, VAN METER","$210,000",12/16/2020, ,"
+                    2020-36731
+                ","$17,250",2023,400752,7280,N,Metal Warehouse - Post Frame,
+1601106002, , , , ,"
+                    
+                ","$554,960",2024,79280,12095,Y,Shopping Center - Neighborhood,
+1603100014,"9750 UNIVERSITY AVE, WEST DES MOINES","$3,041,882",5/10/2005,Y,"
+                    2005-6850
+                ","$7,477,660",2023,398138.4,10400,N,Office - General,
+1603100014,"9750 UNIVERSITY AVE, WEST DES MOINES",$0,2/5/2007,Y,"
+                    2007-1734
+                ","$7,477,660",2023,398138.4,10400,N,Office - General,
+1603100014,"9750 UNIVERSITY AVE, WEST DES MOINES",$0,9/14/2016, ,"
+                    2016-17248
+                ","$7,477,660",2023,398138.4,10400,N,Office - General,
+1603100014,"9750 UNIVERSITY AVE, WEST DES MOINES","$4,663,756",7/22/2021, ,"
+                    2021-21645
+                ","$7,477,660",2023,398138.4,10400,N,Office - General,
+1603112002,"1500 SE UNIVERSITY AVE, WAUKEE","$840,000",10/11/2022, ,"
+                    2022-21945
+                ","$632,770",2023,52731,2139,N,Restaurant - Fast Food,
+1603112002,"1500 SE UNIVERSITY AVE, WAUKEE","$2,980,769",8/18/2023, ,"
+                    2023-12195
+                ","$632,770",2023,52731,2139,N,Restaurant - Fast Food,
+1603113001,"1450 SE UNIVERSITY AVE, WAUKEE",$0,3/14/2023, ,"
+                    2023-3315
+                ","$5,420",2023,75242,11617,N,Shopping Center - Neighborhood,
+1603113001,"1450 SE UNIVERSITY AVE, WAUKEE",$0,3/14/2023, ,"
+                    2023-3316
+                ","$5,420",2023,75242,11617,N,Shopping Center - Neighborhood,
+1603113001,"1450 SE UNIVERSITY AVE, WAUKEE",$0,3/14/2023, ,"
+                    2023-3317
+                ","$5,420",2023,75242,11617,N,Shopping Center - Neighborhood,
+1603114003,"1765 SE GLACIER TRAIL, WAUKEE", , , ,"
+                    
+                ","$8,250",2023,233242,8982,N,Apartment,
+1604251002,"805 SE TALLGRASS LANE, WAUKEE","$1,445,775",10/11/2022, ,"
+                    2022-21690
+                ","$1,440,000",2023,242802,23667,N,Apartment - Assisted Living,
+1604251002,"805 SE TALLGRASS LANE, WAUKEE","$1,373,800",7/26/2022, ,"
+                    2022-16939
+                ","$1,440,000",2023,242802,23667,N,Apartment - Assisted Living,
+1604252001,"1025 SE TALLGRASS LN, WAUKEE", , , ,"
+                    
+                ","$3,280,070",2023,327907,15900,N,Office - Medical / Dental,
+1604428001,"2515 GRAND PRAIRIE PKWY, WAUKEE",$0,4/7/2023, ,"
+                    2023-5087
+                ","$3,039,060",2023,303906,35861,N,Office - Medical / Dental,
+1604428001,"2515 GRAND PRAIRIE PKWY, WAUKEE","$2,940,300",12/14/2022, ,"
+                    2022-25606
+                ","$3,039,060",2023,303906,35861,N,Office - Medical / Dental,
+1604480002,"2820 GRAND PRAIRIE PKWY, WAUKEE","$1,475,804",7/11/2023, ,"
+                    2023-9840
+                ","$2,220",2023,67100,4285,N,Restaurant - Fast Food,
+1604480009,"2938 GRAND PRAIRIE PKWY, WAUKEE","$8,284,153",4/6/2023,Y,"
+                    2023-4548
+                ","$11,480,550",2023,98149,16493,N,Theater,
+1604481003,"2848 SE PARKVIEW DR, WAUKEE",$0,6/11/2023, ,"
+                    2023-7760
+                ",$0,2023,63037,15886,N,Hotel / Motel,
+1604481004,"2848 GRAND PRAIRIE PARKWAY, WAUKEE", , , ,"
+                    
+                ","$1,740",2023,51836,15886,N,Hotel / Motel,
+1605250004,"295 SE WESTOWN PKWY, WAUKEE", , , ,"
+                    
+                ","$867,320",2023,47480,11850,N,Office - Medical / Dental,
+1611101002,"8710 ASHWORTH, WEST DES MOINES",$0,10/20/2022, ,"
+                    2022-22634
+                ","$306,000",2023,91476,13570,N,Apartment,
+1611101002,"8710 ASHWORTH, WEST DES MOINES","$325,900",2/8/2022, ,"
+                    2022-3278
+                ","$306,000",2023,91476,13570,N,Apartment,
+1611101002,"8710 ASHWORTH, WEST DES MOINES","$285,000",3/27/2017, ,"
+                    2017-5704
+                ","$306,000",2023,91476,13570,N,Apartment,
+1611101002,"8710 ASHWORTH, WEST DES MOINES","$25,404",10/11/2017, ,"
+                    2017-22292
+                ","$306,000",2023,91476,13570,N,Apartment,
+1611226015,"950 JORDAN CREEK PKWY, WEST DES MOINES",$0,5/6/2022, ,"
+                    2022-13396
+                ","$11,863,250",2023,397702.8,5902,N,Restaurant,
+1611226015,"950 JORDAN CREEK PKWY, WEST DES MOINES",$0,8/10/2022, ,"
+                    2022-18760
+                ","$11,863,250",2023,397702.8,5902,N,Restaurant,
+1611226015,"950 JORDAN CREEK PKWY, WEST DES MOINES",$0,8/10/2022, ,"
+                    2022-18762
+                ","$11,863,250",2023,397702.8,5902,N,Restaurant,
+1612327001,"6920 EP TRUE PKWY, WEST DES MOINES", , , ,"
+                    
+                ","$4,282,000",2023,211000,17082,N,Shopping Center - Neighborhood,
+1612327002,"6960 EP TRUE PKWY, WEST DES MOINES", , , ,"
+                    
+                ","$4,480",2024,236966.4,17082,N,Shopping Center - Neighborhood,
+1613102001,"190 S JORDAN CREEK PKWY, WEST DES MOINES", , , ,"
+                    
+                ","$598,780",2023,37424,20831,N,Recreational Facility,
+1613277003, ,"$675,000",2/24/2022,Y,"
+                    2022-4044
+                ","$1,122,000",2023,142665,18457,N,Apartment,
+1613277003, ,"$1,962,500",12/9/2015,Y,"
+                    2015-20154
+                ","$1,122,000",2023,142665,18457,N,Apartment,
+1613277003, ,$0,9/20/2021, ,"
+                    2021-28036
+                ","$1,122,000",2023,142665,18457,N,Apartment,
+1613277003, ,$0,1/22/2016, ,"
+                    2016-1116
+                ","$1,122,000",2023,142665,18457,N,Apartment,
+1613277003, ,$0,9/25/2008,Y,"
+                    2008-13013
+                ","$1,122,000",2023,142665,18457,N,Apartment,
+1613277004, ,"$675,000",2/24/2022,Y,"
+                    2022-4044
+                ","$1,122,000",2023,129634,18457,N,Apartment,
+1613277004, ,"$1,962,500",12/9/2015,Y,"
+                    2015-20154
+                ","$1,122,000",2023,129634,18457,N,Apartment,
+1613277004, ,$0,9/20/2021, ,"
+                    2021-28035
+                ","$1,122,000",2023,129634,18457,N,Apartment,
+1613277004, ,$0,9/25/2008,Y,"
+                    2008-13013
+                ","$1,122,000",2023,129634,18457,N,Apartment,
+1613277004, ,$0,1/22/2016, ,"
+                    2016-1115
+                ","$1,122,000",2023,129634,18457,N,Apartment,
+1613428001,"6275 MILLS CIVIC PKWY, WEST DES MOINES","$1,397,059",10/4/2023, ,"
+                    2023-15453
+                ","$600,830",2023,34132,2741,N,Bank - Branch,
+1613428001,"6275 MILLS CIVIC PKWY, WEST DES MOINES",$0,10/10/2023,Y,"
+                    2023-15452
+                ","$600,830",2023,34132,2741,N,Bank - Branch,
+1613429011,"595 S 60TH ST, WEST DES MOINES", , , ,"
+                    
+                ","$829,847",2023,0,6900,N,Restaurant,
+1613429012,"595 S 60TH ST, WEST DES MOINES", , , ,"
+                    
+                ","$829,847",2023,0,6093,N,Shopping Center - Neighborhood,
+1613429013,"595 S 60TH ST, WEST DES MOINES", , , ,"
+                    
+                ","$829,847",2023,0,9381,N,Office - General,
+1613429014,"595 S 60TH ST, WEST DES MOINES", , , ,"
+                    
+                ","$829,847",2023,0,6759,N,Office - General,
+1613429015,"595 S 60TH ST, WEST DES MOINES", , , ,"
+                    
+                ","$829,848",2023,0,8860,N,Office - General,
+1614278004, , , , ,"
+                    
+                ","$595,380",2024,992296.8,5432,Y,Recreational Facility,
+1615400019,"655 S 88TH ST, WEST DES MOINES","$1,300,000",8/25/2020, ,"
+                    2020-23105
+                ","$1,890,000",2023,359805.6,8772,N,Apartment,
+1615400019,"655 S 88TH ST, WEST DES MOINES","$770,000",7/9/2019, ,"
+                    2019-13321
+                ","$1,890,000",2023,359805.6,8772,N,Apartment,
+1615400019,"655 S 88TH ST, WEST DES MOINES",$0,2/14/2019, ,"
+                    2019-3469
+                ","$1,890,000",2023,359805.6,8772,N,Apartment,
+1615400019,"655 S 88TH ST, WEST DES MOINES","$138,000",10/7/1986, ,"
+                    639-123
+                ","$1,890,000",2023,359805.6,8772,N,Apartment,
+1618228001,"810 INTERSTATE PARKWAY #101, WAUKEE","$1,475,000",10/16/2023,Y,"
+                    2023-15526
+                ","$1,200",2023,10147,10148,N,Warehouse (Storage),
+1618228003,"810 INTERSTATE PARKWAY #121, WAUKEE","$537,600",12/6/2023,Y,"
+                    2023-18252
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228004,"810 INTERSTATE PARKWAY #125, WAUKEE","$537,600",12/6/2023,Y,"
+                    2023-18252
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228005,"810 INTERSTATE PARKWAY #131, WAUKEE", , , ,"
+                    
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228006,"810 INTERSTATE PARKWAY #135, WAUKEE", , , ,"
+                    
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228007,"810 INTERSTATE PARKWAY #141, WAUKEE", , , ,"
+                    
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228008,"810 INTERSTATE PARKWAY #145, WAUKEE","$268,800",10/30/2023, ,"
+                    2023-16966
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228009,"810 INTERSTATE PARKWAY #151, WAUKEE","$273,500",1/25/2024, ,"
+                    2024-01028
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228010,"810 INTERSTATE PARKWAY #155, WAUKEE","$268,800",10/30/2023, ,"
+                    2023-16964
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228011,"810 INTERSTATE PARKWAY #161, WAUKEE","$318,800",10/31/2023,Y,"
+                    2023-16512
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1618228012,"810 INTERSTATE PARKWAY #165, WAUKEE","$268,800",10/25/2023, ,"
+                    2023-15976
+                ",$200,2023,1920,1920,N,Warehouse (Storage),
+1624152001,"1260 S JORDAN CREEK PKWY, WEST DES MOINES","$4,000,000",12/15/2016, ,"
+                    2016-25371
+                ","$46,003,640",2023,1737608.4,12217,N,Apartment,
+1624152001,"1260 S JORDAN CREEK PKWY, WEST DES MOINES",$0,12/19/2016, ,"
+                    2017-446
+                ","$46,003,640",2023,1737608.4,12217,N,Apartment,
